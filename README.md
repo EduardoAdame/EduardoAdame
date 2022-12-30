@@ -6,7 +6,7 @@
   
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/eduardo-adame-s/" >
-     <img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif"  width = "80" 
+     <img src="https://media.giphy.com/media/KqAWVSP7qSPXq/giphy.gif"  width = "80" 
           alt= "LinkedIn Badge"/>
   </a>
  </div>
