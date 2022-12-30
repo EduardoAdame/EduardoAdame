@@ -1,20 +1,34 @@
-<dev id="header" align="center">
-  <img src= "https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width = "300"/ align="center">
-  <h1 align = "center" >Hi, I´m Eduardo" </h1>
-  <h3 align = "center" >A passionate applied actuary from Mexico< </h3> 
-</dev
+<div id="header" align="center">
+  <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/1ca74946ed770bb635e4de4711bd861f.gif" width = "200" />
+  <h1 align = "center" >Hi, I´m Eduardo </h1>
+  <h3 align = "center" >A passionate applied actuary from Mexico 💻 </h3> 
+</div>
+  
+<div id="badges" align="center">
+  <a href = "https://www.linkedin.com/in/eduardo-adame-s/" >
+     <img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif"  width = "80" 
+          alt= "LinkedIn Badge"/>
+  </a>
+ </div>
 
-<!--
-**EduardoAdame/EduardoAdame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  💡 About me
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working as **Statistical Programmer** 
+* 💬 Ask me about **R, Python, SQL**
+* 📫 How to reach me: adamesaurio@ciencias.unam.mx
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align ="left"
+  <h3> 🛠 Languages and tools </h3>
+     <div>
+          <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="70" heigth="40"/>&nbsp;
+          <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="70" heigth="45"/>&nbsp;
+          <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" title="SQL" alt="SQL" width="50" heigth="30"/>&nbsp;
+          <img src="" title="" alt="" width="40" heigth="40"/>&nbsp;
+     </div>
+</div>     
+---
+
+### 📊 My stats 
+
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAdame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
