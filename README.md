@@ -1,5 +1,5 @@
 <dev id="header" align="center">
-  <img src= "[https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg](https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif)" width = "300"/ align="center">
+  <img src= "https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width = "300"/ align="center">
   <h1 align = "center" >Hi, I´m Eduardo" </h1>
   <h3 align = "center" >A passionate applied actuary from Mexico< </h3> 
 </dev
