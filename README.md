@@ -19,7 +19,7 @@
 ---
 
 <div align ="left"
-  <h3> 🛠 Languages and tools </h3>
+  <h1> 🛠 Languages and tools </h1>
      <div>
           <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="70" heigth="40"/>&nbsp;
           <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="70" heigth="45"/>&nbsp;
