@@ -4,9 +4,9 @@
   <h3 align = "center" >A passionate applied actuary from Mexico 💻 </h3> 
 </div>
   
-<div id="badges" align="center">
+<div id="badges" align="center">  
   <a href = "https://www.linkedin.com/in/eduardo-adame-s/" >
-     <img src="https://media.giphy.com/media/KqAWVSP7qSPXq/giphy.gif"  width = "80" 
+     <img src="https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif"  width = "80" 
           alt= "LinkedIn Badge"/>
   </a>
  </div>
