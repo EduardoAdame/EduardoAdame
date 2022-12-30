@@ -1,4 +1,8 @@
-### Hi there 👋
+<dev  id="header" align= "center"
+ <img src= "https://www.bing.com/images/search?view=detailV2&ccid=LuaZjjTD&id=5A626DD82DB67362052197594BF84687AAFD1F21&thid=OIP.LuaZjjTD4u_3uJTGbPxSZwHaFj&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2e%2Fe6%2F99%2F2ee6998e34c3e2eff7b894c66cfc5267.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.2ee6998e34c3e2eff7b894c66cfc5267%3Frik%3DIR%252f9qodG%252bEtZlw%26pid%3DImgRaw%26r%3D0&exph=600&expw=800&q=tumblr+statistics+gif&simid=608052066969592172&form=IRPRST&ck=28C22FA31868187ACDAB10086E4DF1C1&selectedindex=1&ajaxhist=0&ajaxserp=0&vt=0" width = "200" />
+ <h1 align = "center" >Hi, I´m Eduardo" </h1>
+ <h3 align = "center" >A passionate applied actuary from Mexico< </h3> 
+</dev
 
 <!--
 **EduardoAdame/EduardoAdame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
