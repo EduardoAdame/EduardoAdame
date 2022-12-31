@@ -17,9 +17,8 @@
 * 💬 Ask me about **R, Python, SQL**
 * 📫 How to reach me: adamesaurio@ciencias.unam.mx
 ---
-
-<div align ="left"
-  <h1> 🛠 Languages and tools </h1>
+### 🛠 Languages and tools
+<div align ="left" 
      <div>
           <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="90" heigth="40"/>&nbsp;
           <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="90" heigth="45"/>&nbsp;
@@ -28,7 +27,6 @@
           <img src="" title="" alt="" width="40" heigth="40"/>&nbsp;
      </div>
 </div>     
-
 
 ### 📊 My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAdame&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
