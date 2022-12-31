@@ -18,7 +18,7 @@
 * 📑 Know about my experience https://www.linkedin.com/feed/update/urn:li:activity:6939661047771389952/
 * 📫 How to reach me adamesaurio@ciencias.unam.mx
 ---
-### 🛠 Languages and Tools
+### 🛠 Languages & Tools
 <div align ="left" 
      <div>
           <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="90" heigth="40"/>&nbsp;
