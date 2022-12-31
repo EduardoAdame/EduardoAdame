@@ -21,9 +21,10 @@
 <div align ="left"
   <h1> 🛠 Languages and tools </h1>
      <div>
-          <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="70" heigth="40"/>&nbsp;
-          <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="70" heigth="45"/>&nbsp;
-          <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" title="SQL" alt="SQL" width="50" heigth="30"/>&nbsp;
+          <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="90" heigth="40"/>&nbsp;
+          <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="90" heigth="45"/>&nbsp;
+          <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" title="SQL" alt="SQL" width="70" heigth="30"/>&nbsp;
+          <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4191317.jpg" title="HTML" alt="HTML" width="70" heigth="30"/>&nbsp;
           <img src="" title="" alt="" width="40" heigth="40"/>&nbsp;
      </div>
 </div>     
