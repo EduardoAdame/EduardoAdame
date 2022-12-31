@@ -11,13 +11,14 @@
   </a>
  </div>
 
-###  💡 About me
+###  💡 About Me
 
 * 🔭 I’m currently working as **Statistical Programmer** 
 * 💬 Ask me about **R, Python, SQL**
-* 📫 How to reach me: adamesaurio@ciencias.unam.mx
+* 📑 Know about my experience https://www.linkedin.com/feed/update/urn:li:activity:6939661047771389952/
+* 📫 How to reach me adamesaurio@ciencias.unam.mx
 ---
-### 🛠 Languages and tools
+### 🛠 Languages and Tools
 <div align ="left" 
      <div>
           <img src="https://i.ytimg.com/vi/9-RrkJQQYqY/maxresdefault.jpg" title="RStudio" alt="R" width="90" heigth="40"/>&nbsp;
@@ -28,5 +29,6 @@
      </div>
 </div>     
 
-### 📊 My stats
+
+### 📊 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAdame&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
