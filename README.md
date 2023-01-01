@@ -25,7 +25,8 @@
           <img src="https://wallpapercave.com/dwp1x/wp8042506.jpg" title="Python" alt="Py" width="90" heigth="45"/>&nbsp;
           <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" title="SQL" alt="SQL" width="70" heigth="30"/>&nbsp;
           <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4191317.jpg" title="HTML" alt="HTML" width="70" heigth="30"/>&nbsp;
-          <img src="" title="" alt="" width="40" heigth="40"/>&nbsp;
+          <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-saas-institute-biggest-campaign.jpg" title="SAS" alt="SAS" width="80" heigth="40"/>&nbsp;
+          <img src="https://tshirtgeek.co/wp-content/uploads/2021/06/com027.jpg" title="JAVA" alt="JAVA" width="60" heigth="40"/>&nbsp;
      </div>
 </div>     
 
